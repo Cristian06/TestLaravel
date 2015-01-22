@@ -23,3 +23,8 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+#Login Simple de Usuarios, incluye:
+**Encriptación de clave ||**
+**Diseño Bootstrap ||**
+**Alertas al Ingresar, Salir y al haber errores durante el inicio de sesión**
