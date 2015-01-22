@@ -26,5 +26,5 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 #Mantenedor CRUD, incluye: 
-##Validación de formularios.
+**Validación de formularios.**
 ##Diseño Bootstrap.
